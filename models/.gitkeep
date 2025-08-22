@@ -1,0 +1,5 @@
+# This directory contains large GGUF model files
+# Models are not tracked in git due to size
+# Available models:
+# - Qwen2.5-7B-Instruct-1M-Q4_K_M.gguf (4.4GB)
+# - qwen2.5-coder-32b-q4_k_m.gguf (19GB)
